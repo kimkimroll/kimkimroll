@@ -2,7 +2,7 @@
 - 👀 I’m interested in anything data viz!!
 - 🌱 I’m currently studying Master's in Analytics at Georgia Institute of Technology 
 - 💞️ I’m currently working as health scientist for Situational Awareness Visualization International COVID-19 task force at CDC.
-- 📫 Reach me at: kim3atsrice@gmail.com
+- 📫 Contact me at: kim3atsrice@gmail.com
 
 <!---
 kimkimroll/kimkimroll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
