@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kimkimroll
+- 👋 Hi, I’m @kimkimroll (nvj5@cdc.gov)
 - 👀 I’m interested in anything data viz!!
 - 🌱 I’m currently studying Master's in Analytics at Georgia Institute of Technology 
 - 💞️ I’m currently working as health scientist for CDC's Situational Awareness Visualization International COVID-19 task force.
