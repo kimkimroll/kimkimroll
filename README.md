@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kimkimroll
 - 📫 Contact me at: nvj5@cdc.gov
-- 🌱 I’m currently working as health scientist for CDC's ITF SAVI team.
+- 🌱 I’m currently working as health scientist for CDC's ITF COVID-19 SAVI team.
 
 
 <!---
