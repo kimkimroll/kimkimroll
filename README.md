@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kimkimroll
 - 📫 Contact me at: nvj5@cdc.gov
-- 🌱 I’m currently working as data analyst for the CDC's ITF COVID-19 and Mpox Taskforce - Situational Awareness and Visualization (SAVI) team.
+- 🌱 I’m currently working as data analyst for the CDC's International Task Force for COVID-19 and Mpox - Situational Awareness and Visualization (SAVI) team.
 
 
 <!---
